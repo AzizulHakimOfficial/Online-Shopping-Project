@@ -29,7 +29,7 @@ Contact us at :- btechdays.care@gmail.com
 <br>
 or
 <br>
-contact us at instagram :- btechdays
+contact us at instagram :- btech
 </div>
 
 </body>
